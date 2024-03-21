@@ -11,6 +11,11 @@
 
 # IDCardRecognition-iOS
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/watch?v=5InSERvHGvY) to see how well our demo app works.</br></br>
+[![ID Card Recognition iOS](https://img.youtube.com/vi/5InSERvHGvY/0.jpg)](https://www.youtube.com/watch?v=5InSERvHGvY)
+
 ## Screenshots
 
 <p float="left">
